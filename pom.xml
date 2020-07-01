@@ -16,7 +16,7 @@
 		<java.version>1.8</java.version>
 		<jsoup.version>1.10.3</jsoup.version>
 		<selenium.version>3.4.0</selenium.version>
-		<mysql.version>5.1.6</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<jedis.version>2.9.0</jedis.version>
 		<mongo.version>3.4.2</mongo.version>
 		<asm.version>3.3.1</asm.version>
